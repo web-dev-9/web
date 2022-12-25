@@ -14,6 +14,11 @@ function App() {
         src="https://res.cloudinary.com/dwwimfezn/image/upload/v1671639062/Screenshot_513_mevfzg.png"
         alt="ref"
       />
+
+      <h1>Background Image URL: </h1>
+      <textarea rows="5" cols="40">
+        https://us.123rf.com/450wm/pilvitus/pilvitus1903/pilvitus190300028/pilvitus190300028.jpg?ver=6
+      </textarea>
     </div>
   );
 }
